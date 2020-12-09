@@ -1,4 +1,4 @@
-# Matt Long - Full Stack Developer
+# Matt Long - Developer | Leader | Hiker | Reader
 
 ### Reader, Hiker, Father
 * 📚 Books read in 2020: [28 and counting](https://www.goodreads.com/user_challenges/20046261)
