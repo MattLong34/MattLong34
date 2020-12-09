@@ -1,19 +1,19 @@
 # Matt Long - Full Stack Developer
 
 ### Reader, Hiker, Father
-* 📚 - Books read so far in 2020: 28+
-* ⛰️ - Favorite hike of 2020: Hope Pass via Willis Gulch Trail
-* 👨‍👩‍👦 - Favorite memory with our toddler in 2020: Ascending Pikes Peak - his first 14er!
+* 📚 Books read so far in 2020: 28+
+* ⛰️ Favorite hike of 2020: Hope Pass via Willis Gulch Trail
+* 👨‍👩‍👦 Favorite memory with our toddler in 2020: Ascending Pikes Peak - his first 14er!
 
 ### My Experience in a Nutshell
-* 🏢 - 5 years of management experience in both non-profit and small business contexts
-* 👨‍💻 -Certified ScrumMaster and passionate about collaborate team dynamics
-* 💻 - Graduated from Flatiron's 15 week Software Engineering Bootcamp in October 2020
+* 🏢 5 years of management experience in both non-profit and small business contexts
+* 👨‍💻 Certified ScrumMaster and passionate about collaborate team dynamics
+* 💻 Graduated from Flatiron's 15 week Software Engineering Bootcamp in October 2020
 
 ### I'm Currently...
-* Exploring Ember.js - Check out my tech talk!
-* Strengthening core JavaScript with the help of Kyle Simpson's "You Don't Know JS" series
-* Meeting (virtually!) with interesting folks on a daily basis. Hit me up to get on my calendar!
+* 🐹 Exploring Ember.js - Check out my tech talk!
+* 🖥️ Strengthening core JavaScript with the help of Kyle Simpson's "You Don't Know JS" series
+* 📅 Meeting (virtually!) with interesting folks on a daily basis. Hit me up to get on my calendar!
 
 ### Tech Stack
 
