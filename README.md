@@ -17,19 +17,13 @@
 
 ### Tech Stack
 
-<img align="left" atl="react" src="https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white"/>
-<img align="left" atl="material-ui" src="https://img.shields.io/badge/Material--UI-38B2AC?style=for-the-badge&logo=material-ui&logoColor=white"/>
-<img align="left" atl="ruby" src="https://img.shields.io/badge/Ruby-38B2AC?style=for-the-badge&logo=ruby&logoColor=white"/>
-<img align="left" atl="JS" src="https://img.shields.io/badge/JavaScript-38B2AC?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img align="left" atl="HTML" src="https://img.shields.io/badge/HTML5-38B2AC?style=for-the-badge&logo=html5&logoColor=white"/>
-
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <br/>
 
