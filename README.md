@@ -1,8 +1,8 @@
 # Matt Long - Full Stack Developer
 
 ### Avid Reader and Hiker
-* Books read so far in 2020: 28+
-* Favorite hike of 2020: Hope Pass via Willis Gulch Trail
+* 📚 Books read so far in 2020: 28+
+* ⛰️ Favorite hike of 2020: Hope Pass via Willis Gulch Trail
 
 ### My Experience in a Nutshell
 * 5 years of management experience in both non-profit and small business contexts
