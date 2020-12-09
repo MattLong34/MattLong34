@@ -27,8 +27,13 @@
 
 ### Let's Chat!
 
-[<img align="left" atl="linkedin" src="https://img.shields.io/badge/linkedin-FF7A59.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][LinkedIn]
-[<img align="left" atl="youtube" src="https://img.shields.io/badge/YouTube-FF7A59?style=for-the-badge&logo=youtube&logoColor=white"/>][Youtube]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
+
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
+
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
 
 [LinkedIn]:https://www.linkedin.com/in/hailey-ringier/
 [Youtube]:https://www.youtube.com/channel/UCv8YpacxVgL9ShVduwb3Blg?view_as=subscriber
