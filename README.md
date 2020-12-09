@@ -1,7 +1,7 @@
 # Matt Long - Full Stack Developer
 
 ### Reader, Hiker, Father
-* 📚 Books read so far in 2020: 28+
+* 📚 Books read so far in 2020: [28+](https://www.goodreads.com/user_challenges/20046261)
 * ⛰️ Favorite hike of 2020: Hope Pass via Willis Gulch Trail
 * 👨‍👩‍👦 Favorite memory with our toddler in 2020: Ascending Pikes Peak - his first 14er!
 
@@ -12,7 +12,7 @@
 
 ### I'm Currently...
 * 🐹 Exploring Ember.js - Check out my tech talk!
-* 🖥️ Strengthening core JavaScript with the help of Kyle Simpson's "You Don't Know JS" series
+* 🖥️ Strengthening core JavaScript skills with the help of Kyle Simpson's "You Don't Know JS" series
 * 📅 Meeting (virtually!) with interesting folks on a daily basis. Hit me up to get on my calendar!
 
 ### Tech Stack
