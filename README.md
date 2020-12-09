@@ -27,8 +27,9 @@
 
 <br/>
 
-### Let's Chat!
-
-[LinkedIn]:https://www.linkedin.com/in/hailey-ringier/
-[Youtube]:https://www.youtube.com/channel/UCv8YpacxVgL9ShVduwb3Blg?view_as=subscriber
+### Let's Connect!
+* [matt-long.dev](https://matt-long.dev/)
+* [LinkedIn](https://www.linkedin.com/in/mattlong34/)
+* [Medium](https://mattlong34.medium.com/)
+* [YouTube](https://www.youtube.com/watch?v=84NLZITi864&list=PLrKrG671rcSPrIJQVRT_TqS7gknxERwyq&index=1&t=1s)
 
