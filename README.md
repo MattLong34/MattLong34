@@ -1,4 +1,4 @@
-### Matt Long - Full Stack Developer
+# Matt Long - Full Stack Developer
 
 ## Avid Reader and Hiker
 * Books read so far in 2020: 28+
