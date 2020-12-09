@@ -1,13 +1,14 @@
 # Matt Long - Full Stack Developer
 
-### Avid Reader and Hiker
-* 📚  Books read so far in 2020: 28+
-* ⛰️  Favorite hike of 2020: Hope Pass via Willis Gulch Trail
+### Reader, Hiker, Father
+* 📚 Books read so far in 2020: 28+
+* ⛰️ Favorite hike of 2020: Hope Pass via Willis Gulch Trail
+* 👨‍👩‍👦 Favorite memory with our toddler in 2020: Ascending Pikes Peak - his first 14er!
 
 ### My Experience in a Nutshell
-* 5 years of management experience in both non-profit and small business contexts
-* Certified ScrumMaster and passionate about collaborate team dynamics
-* Graduated from Flatiron's 15 week Software Engineering Bootcamp in October 2020
+* 🏢 5 years of management experience in both non-profit and small business contexts
+* 😀 Certified ScrumMaster and passionate about collaborate team dynamics
+* 💻 Graduated from Flatiron's 15 week Software Engineering Bootcamp in October 2020
 
 ### I'm Currently...
 * Exploring Ember.js - Check out my tech talk!
@@ -24,7 +25,7 @@
 
 <br/>
 
-### Connect with me
+### Let's Chat!
 
 [<img align="left" atl="linkedin" src="https://img.shields.io/badge/linkedin-FF7A59.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][LinkedIn]
 [<img align="left" atl="youtube" src="https://img.shields.io/badge/YouTube-FF7A59?style=for-the-badge&logo=youtube&logoColor=white"/>][Youtube]
@@ -32,19 +33,3 @@
 [LinkedIn]:https://www.linkedin.com/in/hailey-ringier/
 [Youtube]:https://www.youtube.com/channel/UCv8YpacxVgL9ShVduwb3Blg?view_as=subscriber
 
-#
-
-<!--
-**MattLong34/MattLong34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
