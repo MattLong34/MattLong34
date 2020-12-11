@@ -17,19 +17,19 @@
 
 ### Tech Stack
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" alt="Ruby" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/ruby-logo-png-transparent.png" />
+<img align="left" alt="Ruby" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/ruby-logo-png-transparent.png" />
 
-<img align="left" alt="Ruby on Rails" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" />
+<img align="left" alt="Ruby on Rails" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" />
 
-<img align="left" alt="PostgreSQL" width="30px" src="https://www.myintervals.com/blog/wp-content/uploads/2011/12/postgresql-logo1.png" />
+<img align="left" alt="PostgreSQL" width="50px" src="https://www.myintervals.com/blog/wp-content/uploads/2011/12/postgresql-logo1.png" />
 
 <br/>
 
