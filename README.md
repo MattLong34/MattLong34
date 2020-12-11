@@ -27,9 +27,9 @@
 
 <img align="left" alt="Ruby" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/ruby-logo-png-transparent.png" />
 
-<img align="left" alt="Ruby on Rails" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" />
+<img align="left" alt="Ruby on Rails" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" />
 
-<img align="left" alt="PostgreSQL" width="26px" src="https://www.myintervals.com/blog/wp-content/uploads/2011/12/postgresql-logo1.png" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://www.myintervals.com/blog/wp-content/uploads/2011/12/postgresql-logo1.png" />
 
 <br/>
 
