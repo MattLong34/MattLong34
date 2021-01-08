@@ -1,7 +1,7 @@
 # Matt Long - Developer | Leader | Hiker | Reader
 
 ### Reader, Hiker, Father
-* 📚 Books read in 2020: [28 and counting](https://www.goodreads.com/user_challenges/20046261)
+* 📚 2021 Reading Goal: [29 books - track my progress here](https://www.goodreads.com/user_challenges/26788992)
 * ⛰️ Favorite hike of 2020: [Hope Pass via Willis Gulch Trail](https://www.alltrails.com/trail/us/colorado/hope-pass-via-willis-gulch-trail)
 * 👨‍👩‍👦 Favorite memory with our toddler in 2020: Ascending Pikes Peak - his first 14er!
 
