@@ -7,11 +7,11 @@
 
 ### My Experience in a Nutshell
 * 🏢 5+ years of management experience in both non-profit and small business contexts
-* 👨‍💻 Certified ScrumMaster and passionate about collaborate team dynamics
-* 💻 Graduated from Flatiron's 15 week Software Engineering Bootcamp in October 2020
+* 👨‍💻 Certified ScrumMaster and passionate about collaborating with dynamic teams
+* 🎓 Graduated from Flatiron's 15 week Software Engineering Bootcamp in October 2020
 
 ### I'm Currently...
-* 🐹 Exploring Ember.js - [Check out my tech talk!](https://www.youtube.com/watch?v=84NLZITi864&list=PLrKrG671rcSPrIJQVRT_TqS7gknxERwyq&index=1&t=1s)
+* 💡 Solving problems as a Solutions Architect @ [PFL](https://www.pfl.com/)
 * 🖥️ Strengthening core JavaScript skills with the help of Kyle Simpson's "You Don't Know JS" series
 * 📅 Meeting (virtually!) with interesting folks on a daily basis. [Hit me up to get on my calendar!](https://www.linkedin.com/in/mattlong34/)
 
