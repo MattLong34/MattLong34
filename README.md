@@ -12,7 +12,7 @@
 
 ### I'm Currently...
 * 💡 Solving problems as a Solutions Architect @ [PFL](https://www.pfl.com/)
-* 🖥️ Strengthening core JavaScript skills with the help of Kyle Simpson's "You Don't Know JS" series
+* 🖥️ Strengthening core JavaScript skills with the help of Kyle Simpson's ["You Don't Know JS"](https://www.goodreads.com/series/139311-you-don-t-know-js) series
 * 📅 Meeting (virtually!) with interesting folks on a daily basis. [Hit me up to get on my calendar!](https://www.linkedin.com/in/mattlong34/)
 
 ### Tech Stack
